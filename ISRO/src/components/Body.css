@@ -1,0 +1,19 @@
+.Body p{
+    /* color: white; */
+    text-align: center;
+}
+
+.Inter{
+    margin-top: 5%;
+    font-size: 250%;
+}
+
+.Name{
+    font-size: 150%;
+    margin-top: 3%;
+}
+
+.Roll{
+    font-size: 150%;
+    margin-top: 1%;
+}
